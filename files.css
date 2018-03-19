@@ -1,0 +1,42 @@
+div{
+	
+	border: 20px;
+	border-radius: 30%;
+}
+.hr1{
+	font-size: 30px;
+}
+img{
+	float: left;
+}
+.pfour{
+background-color: aqua;
+font-style: italic;
+font-family: sans-serif;
+color: black;
+
+}
+.pthree{
+font-size: 50px;
+float: left;
+background-color: aqua;
+font-family: Arial;
+font-style: italic;
+
+
+}
+.hr1{
+
+	background-color: grey;
+
+}
+hr1:hover{
+	color: green;
+}
+nav{
+	float: right;
+	width: 90%;
+	display: block;
+	padding: 10px;
+	margin-bottom: 15px;
+}
